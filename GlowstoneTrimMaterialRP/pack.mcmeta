@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Adds emmisive glowstone armor trim. Requires corresponding datapack.",
+        "pack_format": 12
+    }
+}

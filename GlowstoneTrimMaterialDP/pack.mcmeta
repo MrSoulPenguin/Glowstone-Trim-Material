@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Adds emmisive glowstone armor trim. Requires corresponding resourcepack.",
+        "pack_format": 11
+    }
+}
